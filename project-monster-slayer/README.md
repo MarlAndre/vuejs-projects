@@ -15,4 +15,4 @@ The player can restart a new game if they lose, win or if it's a draw.
 
 ### Link
 
-[Monster Slayer](https://stately-eclair-adf9a3.netlify.app/))
+[Monster Slayer](https://stately-eclair-adf9a3.netlify.app/)
